@@ -106,7 +106,7 @@ p {
     font-size: 25px;
 }
 a{
- text-decoration: none;
+ text-decoration: none !important;
     
 }
 html{
