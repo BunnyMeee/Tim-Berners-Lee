@@ -91,7 +91,7 @@ p {
 }
 .link{
     float: left;
-    color:white;
+    color:black;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 9px;
@@ -104,4 +104,15 @@ p {
     background-color:darkorchid;
     color:deepskyblue;
     font-size: 25px;
+}
+a{
+ text-decoration: none;
+    
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+.article:hover{
+  color: darkturquoise;  
 }
